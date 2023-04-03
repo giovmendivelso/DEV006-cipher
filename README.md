@@ -15,11 +15,11 @@ Este proyecto va dirigido a aquellas personas que quieren enviar un mensaje secr
 ## Considerciones de uso
 
 
-Hay dos cuadros para escribir lo deseado, el primero es para colocar el mensaje deseado, el segundo es para ver el resultado del mensaje cifrado, en el medio aparece un boton en el cual se despliegan los números de manera poitiva y negativa. Los números positivos indicaran el desplazamiento x cantidad hacia la derecha, mientras que los números negativos indicaran la cantidad deseada haia la izquierda respectivamente del abecedario y asi los cifrara; para decifrar se copiara el mensaje cifrado y se colocara en el cuadro de arriba y luego se le dara click a desifrar y aparecera en la parte del cuadro de abajo el mensaje de manera normal 
+Hay dos cuadros para escribir lo deseado, el primero es para colocar el mensaje deseado, el segundo es para ver el resultado del mensaje cifrado, en el medio aparece un boton en el cual se despliegan los números de manera poitiva y negativa. Los números positivos indicaran el desplazamiento x cantidad hacia la derecha, mientras que los números negativos indicaran la cantidad deseada haia la izquierda respectivamente del abecedario y asi los cifrara; para decifrar se copiara el mensaje cifrado y se colocara en el cuadro de arriba y luego se le dara click a decifrar y aparecera en la parte del cuadro de abajo el mensaje de manera normal 
 
 ***
 
 
-  <details><summary>Links</summary><p>
+  <details><summary>Link</summary><p>
 
   * http://localhost:3000
