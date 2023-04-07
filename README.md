@@ -22,4 +22,4 @@ Hay dos cuadros para escribir lo deseado, el primero es para colocar el mensaje 
 
   <details><summary>Link</summary><p>
 
-  * http://localhost:3000
+  * http://127.0.0.1:5500/src/
